@@ -1,2 +1,2 @@
 # Profiles api 
-code source for a profile apu made by django rest framework
+code source for a profile api made by django rest framework
